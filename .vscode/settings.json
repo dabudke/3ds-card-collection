@@ -1,0 +1,3 @@
+{
+  "clangd.arguments": ["--query-driver=${env:DEVKITARM}/bin/arm-none-eabi-g++"]
+}
